@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning Android development 📱
+- 📫 How to reach me: @dinis_1 (Telegram)
 <!--
 **DenisKsantopulos/DenisKsantopulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
