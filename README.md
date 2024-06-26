@@ -1,8 +1,9 @@
-## Обо мне
+## Hi!
 <!-- 🌱 I’m currently learning Android development 📱
-- 📫 How to reach me: @dinis_1 (Telegram)-->
-[denisksantopulos.github.io](https://denisksantopulos.github.io/)
-
+- 📫 How to reach me: @dinis_1 (Telegram)
+## Обо мне
+[denisksantopulos.github.io](https://denisksantopulos.github.io/)-->
+📫 How to reach me: @dinis_1 (Telegram)
 <!--
 **DenisKsantopulos/DenisKsantopulos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
